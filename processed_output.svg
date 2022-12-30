@@ -1,0 +1,354 @@
+<svg aria-owns="html1" data-stacking-context="true" height="720" viewBox="514 1 302 720" width="302"
+     xmlns="http://www.w3.org/2000/svg">
+    <g class="svg-content" data-height="887" data-view-box="" data-width="521" transform="matrix(1, 0, 0, 1, 400, 0)">
+        <path color="rgb(238, 238, 238)"
+              d="M143,674C143,624,143,650,143,600L135,608L151,608L143,600C143,650,143,624,143,674" fill="rgb(0, 0, 0)"
+              opacity="1" stroke="rgb(0, 0, 0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px"
+              style="stroke-linecap: round; stroke-linejoin: round; opacity: 1;"></path>
+        <path color="rgb(238, 238, 238)"
+              d="M143,563C143,513,143,539,143,489L135,497L151,497L143,489C143,539,143,513,143,563" fill="rgb(0, 0, 0)"
+              opacity="1" stroke="rgb(0, 0, 0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px"
+              style="stroke-linecap: round; stroke-linejoin: round; opacity: 1;"></path>
+        <path color="rgb(238, 238, 238)"
+              d="M143,452C143,402,143,428,143,378L135,386L151,386L143,378C143,428,143,402,143,452" fill="rgb(0, 0, 0)"
+              opacity="1" stroke="rgb(0, 0, 0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px"
+              style="stroke-linecap: round; stroke-linejoin: round; opacity: 1;"></path>
+        <path color="rgb(238, 238, 238)"
+              d="M378,674C378,624,378,650,378,600L370,608L386,608L378,600C378,650,378,624,378,674" fill="rgb(0, 0, 0)"
+              opacity="0.15" stroke="rgb(0, 0, 0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px"
+              style="stroke-linecap: round; stroke-linejoin: round; opacity: 0.15;"></path>
+        <path color="rgb(238, 238, 238)"
+              d="M378,563C378,513,378,539,378,489L370,497L386,497L378,489C378,539,378,513,378,563" fill="rgb(0, 0, 0)"
+              opacity="0.15" stroke="rgb(0, 0, 0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px"
+              style="stroke-linecap: round; stroke-linejoin: round; opacity: 0.15;"></path>
+        <path color="rgb(238, 238, 238)"
+              d="M378,452C378,402,378,428,378,378L370,386L386,386L378,378C378,428,378,402,378,452" fill="rgb(0, 0, 0)"
+              opacity="1" stroke="rgb(0, 0, 0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px"
+              style="stroke-linecap: round; stroke-linejoin: round; opacity: 1;"></path>
+        <path color="rgb(238, 238, 238)"
+              d="M378,341C378,291,378,317,378,267L370,275L386,275L378,267C378,317,378,291,378,341" fill="rgb(0, 0, 0)"
+              opacity="1" stroke="rgb(0, 0, 0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px"
+              style="stroke-linecap: round; stroke-linejoin: round; opacity: 1;"></path>
+        <path color="rgb(238, 238, 238)"
+              d="M378,230C378,180,261,206,261,156L253,164L269,164L261,156C261,206,378,180,378,230" fill="rgb(0, 0, 0)"
+              opacity="1" stroke="rgb(0, 0, 0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px"
+              style="stroke-linecap: round; stroke-linejoin: round; opacity: 1;"></path>
+        <path color="rgb(238, 238, 238)"
+              d="M143,341C143,291,143,317,143,267L135,275L151,275L143,267C143,317,143,291,143,341" fill="rgb(0, 0, 0)"
+              opacity="1" stroke="rgb(0, 0, 0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px"
+              style="stroke-linecap: round; stroke-linejoin: round; opacity: 1;"></path>
+        <path color="rgb(238, 238, 238)"
+              d="M143,230C143,180,261,206,261,156L253,164L269,164L261,156C261,206,143,180,143,230" fill="rgb(0, 0, 0)"
+              opacity="1" stroke="rgb(0, 0, 0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px"
+              style="stroke-linecap: round; stroke-linejoin: round; opacity: 1;"></path>
+        <path color="rgb(238, 238, 238)" d="M261,119C261,69,261,95,261,45L253,53L269,53L261,45C261,95,261,69,261,119"
+              fill="rgb(0, 0, 0)" opacity="1" stroke="rgb(0, 0, 0)" stroke-linecap="round" stroke-linejoin="round"
+              stroke-width="2px" style="stroke-linecap: round; stroke-linejoin: round; opacity: 1;"></path>
+        <desc>Created with Raphaël 2.3.0</desc>
+        <defs color="rgb(238, 238, 238)" fill="rgb(0, 0, 0)" stroke="none"></defs>
+        <circle color="rgb(238, 238, 238)" cx="260.5" cy="25.5" fill="rgb(255, 102, 189)" opacity="1" r="17"
+                stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="2px"
+                style="opacity: 1; cursor: pointer;"></circle>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="12px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="700"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 12px; font-weight: bold; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="260.5" y="25.5">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="4" fill="rgb(0, 0, 0)"
+                   font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="12px"
+                   font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal"
+                   font-weight="700" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">C0
+            </tspan>
+        </text>
+        <circle color="rgb(238, 238, 238)" cx="260.5" cy="136.42857142857142" fill="rgb(255, 102, 189)" opacity="1"
+                r="17" stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="2px"
+                style="opacity: 1; cursor: pointer;"></circle>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="12px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="700"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 12px; font-weight: bold; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="260.5" y="136.42857142857142">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="3.999997820172979"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="12px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="700" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">C1
+            </tspan>
+        </text>
+        <circle color="rgb(238, 238, 238)" cx="143" cy="247.35714285714283" fill="rgb(150, 102, 255)" opacity="1" r="17"
+                stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="2px"
+                style="opacity: 1; cursor: pointer;"></circle>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="12px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="700"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 12px; font-weight: bold; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="143" y="247.35714285714283">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="3.999995640345958"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="12px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="700" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">C2
+            </tspan>
+        </text>
+        <circle color="rgb(238, 238, 238)" cx="143" cy="358.2857142857143" fill="rgb(150, 102, 255)" opacity="1" r="17"
+                stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="2px"
+                style="opacity: 1; cursor: pointer;"></circle>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="12px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="700"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 12px; font-weight: bold; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="143" y="358.2857142857143">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="4.000008719308028"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="12px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="700" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">C3
+            </tspan>
+        </text>
+        <circle color="rgb(238, 238, 238)" cx="378" cy="247.35714285714283" fill="rgb(255, 201, 102)" opacity="1" r="17"
+                stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="2px"
+                style="opacity: 1; cursor: pointer;"></circle>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="12px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="700"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 12px; font-weight: bold; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="378" y="247.35714285714283">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="3.999995640345958"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="12px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="700" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">C4
+            </tspan>
+        </text>
+        <circle color="rgb(238, 238, 238)" cx="378" cy="358.2857142857143" fill="rgb(255, 201, 102)" opacity="1" r="17"
+                stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="2px"
+                style="opacity: 1; cursor: pointer;"></circle>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="12px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="700"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 12px; font-weight: bold; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="378" y="358.2857142857143">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="4.000008719308028"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="12px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="700" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">C5
+            </tspan>
+        </text>
+        <circle color="rgb(238, 238, 238)" cx="378" cy="469.21428571428567" fill="rgb(255, 201, 102)" opacity="1" r="17"
+                stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="2px"
+                style="opacity: 1; cursor: pointer;"></circle>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="12px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="700"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 12px; font-weight: bold; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="378" y="469.21428571428567">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="3.9999912806919156"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="12px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="700" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">C6
+            </tspan>
+        </text>
+        <circle color="rgb(238, 238, 238)" cx="378" cy="580.1428571428571" fill="rgb(36, 179, 179)" opacity="0.2" r="17"
+                stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="2px"
+                style="opacity: 0.2; cursor: pointer;"></circle>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="12px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="700"
+              letter-spacing="normal" opacity="0.2" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 12px; font-weight: bold; opacity: 0.2; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="378" y="580.1428571428571">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="3.9999738420758604"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="12px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="700" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">C7
+            </tspan>
+        </text>
+        <circle color="rgb(238, 238, 238)" cx="378" cy="691.0714285714286" fill="rgb(36, 179, 179)" opacity="0.2" r="17"
+                stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="2px"
+                style="opacity: 0.2; cursor: pointer;"></circle>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="12px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="700"
+              letter-spacing="normal" opacity="0.2" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 12px; font-weight: bold; opacity: 0.2; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="378" y="691.0714285714286">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="4.000017438616055"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="12px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="700" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">C8
+            </tspan>
+        </text>
+        <circle color="rgb(238, 238, 238)" cx="143" cy="469.21428571428567" fill="rgb(150, 102, 255)" opacity="1" r="17"
+                stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="2px"
+                style="opacity: 1; cursor: pointer;"></circle>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="12px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="700"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 12px; font-weight: bold; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="143" y="469.21428571428567">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="3.9999912806919156"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="12px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="700" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">C9
+            </tspan>
+        </text>
+        <circle color="rgb(238, 238, 238)" cx="143" cy="580.1428571428571" fill="rgb(102, 204, 255)" opacity="1" r="17"
+                stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="2px"
+                style="opacity: 1; cursor: pointer;"></circle>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="10px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="700"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 10px; font-weight: bold; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="143" y="580.1428571428571">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="2.9999738420758604"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="10px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="700" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">C7'
+            </tspan>
+        </text>
+        <circle color="rgb(238, 238, 238)" cx="143" cy="691.0714285714286" fill="rgb(102, 204, 255)" opacity="1" r="17"
+                stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="2px"
+                style="opacity: 1; cursor: pointer;"></circle>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="10px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="700"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 10px; font-weight: bold; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="143" y="691.0714285714286">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="3.000017438616055"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="10px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="700" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">C8'
+            </tspan>
+        </text>
+        <path color="rgb(238, 238, 238)" d="M216,461L167,461L167,455L153,469L167,483L167,477L216,477Z"
+              fill="rgb(255, 102, 211)" opacity="1" stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="3px"
+              style="opacity: 1; cursor: pointer;"
+              transform="matrix(0.8192,-0.5736,0.5736,0.8192,-237.6409,170.6425)"></path>
+        <rect color="rgb(238, 238, 238)" fill="rgb(255, 102, 211)" height="30.93667449951172" opacity="1" rx="8" ry="8"
+              stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="3px" style="opacity: 1; cursor: pointer;"
+              width="47" x="190.25" y="421.6976154872349"></rect>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="14px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="400"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 14px; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="213.75" y="436.21428571428567">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="4.499991280691916"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="14px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="400" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">main
+            </tspan>
+        </text>
+        <path color="rgb(238, 238, 238)" d="M70,683L119,683L119,677L133,691L119,705L119,699L70,699Z"
+              fill="rgb(114, 120, 255)" opacity="0" stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="3px"
+              style="opacity: 0; cursor: auto;"
+              transform="matrix(0.8192,-0.5736,0.5736,0.8192,-375.9852,203.1839)"></path>
+        <rect color="rgb(238, 238, 238)" fill="rgb(114, 120, 255)" height="30.93667449951172" opacity="0" rx="8" ry="8"
+              stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="3px" style="opacity: 0; cursor: auto;"
+              width="47" x="48.75" y="709.5547583443778"></rect>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="14px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="400"
+              letter-spacing="normal" opacity="0" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 14px; opacity: 0; cursor: auto;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="72.25" y="724.0714285714286">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="4.500017438616055"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="14px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="400" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">HEAD
+            </tspan>
+        </text>
+        <path color="rgb(238, 238, 238)" d="M305,461L354,461L354,455L368,469L354,483L354,477L305,477Z"
+              fill="rgb(255, 201, 102)" opacity="1" stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="3px"
+              style="opacity: 1; cursor: pointer;"
+              transform="matrix(0.8192,-0.5736,0.5736,0.8192,-206.152,297.8262)"></path>
+        <rect color="rgb(238, 238, 238)" fill="rgb(255, 201, 102)" height="30.93667449951172" opacity="1" rx="8" ry="8"
+              stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="3px" style="opacity: 1; cursor: pointer;"
+              width="79" x="267.75" y="487.6976154872349"></rect>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="14px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="400"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 14px; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="307.25" y="502.21428571428567">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="4.499991280691916"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="14px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="400" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">featureA
+            </tspan>
+        </text>
+        <path color="rgb(238, 238, 238)" d="M216,683L167,683L167,677L153,691L167,705L167,699L216,699Z"
+              fill="rgb(102, 204, 255)" opacity="1" stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="3px"
+              style="opacity: 1; cursor: pointer;"
+              transform="matrix(0.8192,-0.5736,0.5736,0.8192,-364.9749,210.7908)"></path>
+        <rect color="rgb(238, 238, 238)" fill="rgb(102, 204, 255)" height="30.93667449951172" opacity="1" rx="8" ry="8"
+              stroke="rgb(0, 0, 0)" stroke-dasharray="none" stroke-width="3px" style="opacity: 1; cursor: pointer;"
+              width="87" x="170.25" y="643.5547583443778"></rect>
+        <text color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" fill="rgb(238, 238, 238)"
+              font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace' font-size="14px"
+              font-size-adjust="none" font-stretch="100%" font-style="normal" font-variant="normal" font-weight="400"
+              letter-spacing="normal" opacity="1" stroke="none"
+              style='text-anchor: middle; font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", monospace; font-size: 14px; opacity: 1; cursor: pointer;'
+              text-anchor="middle" text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal"
+              user-select="auto" word-spacing="0px" writing-mode="horizontal-tb" x="213.75" y="658.0714285714286">
+            <tspan color="rgb(238, 238, 238)" direction="ltr" dominant-baseline="auto" dy="4.500017438616055"
+                   fill="rgb(0, 0, 0)" font-family='Menlo, Monaco, Consolas, "Droid Sans Mono", monospace'
+                   font-size="14px" font-size-adjust="none" font-stretch="100%" font-style="normal"
+                   font-variant="normal" font-weight="400" letter-spacing="normal" stroke="none" text-anchor="middle"
+                   text-decoration="rgb(238, 238, 238)" text-rendering="auto" unicode-bidi="normal" user-select="auto"
+                   word-spacing="0px" writing-mode="horizontal-tb">featureB*
+            </tspan>
+        </text>
+    </g>
+</svg>
