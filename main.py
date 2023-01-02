@@ -42,7 +42,7 @@ def fix_colors(svg_root: Tag):
 
 def save_to_file(svg_root: Tag, file_name: str) -> None:
     f = Path(".") / file_name
-    f.write_text(str(svg_root).replace("viewbox", "viewBox"))
+    f.write_text(str(svg_root).replace("viewbox", "viewBox"), encoding="utf-8")
 
 
 if __name__ == '__main__':
@@ -50,7 +50,8 @@ if __name__ == '__main__':
     # root = tree.getroot()
     f = Path(".") / "index.svg"
     with f.open() as fp:
-        b = BeautifulSoup(fp, "lxml")
+        content = f.read_text(encoding="utf-8")
+        b = BeautifulSoup(content, "lxml")
 
     actual_graph = b.find("g", {"class": "svg-content"})
 
@@ -58,7 +59,7 @@ if __name__ == '__main__':
 
     while len(svg_root.contents) > 1:
         extract_real_graph(svg_root, actual_graph)
-        
+
     fix_colors(svg_root)
 
     save_to_file(svg_root, "out.svg")
