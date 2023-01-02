@@ -6,24 +6,37 @@ Specifically:
 
 Run "pip3 install beautifulsoup4 lxml" before running this script.
 """
-
 from pathlib import Path
+from typing import List
 
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup, Tag, NavigableString
 
 
-def extract_real_graph(svg_root: Tag, actual_graph: Tag):
-    svg_root.insert(0, actual_graph)
+def is_graph(tag: Tag) -> bool:
+    try:
+        return tag.name == "g" and tag.attrs["class"][0] == "svg-content"
+    except:
+        return False
+
+
+def has_non_graph_children(svg_root: Tag) -> bool:
     for child in svg_root.children:
-        keep = False
-        try:
-            if child.name == "g" and child.attrs["class"][0] == "svg-content":
-                keep = True
-        except:
-            pass
+        if not is_graph(child) and type(child) != NavigableString:
+            return True
+    return False
 
-        if not keep:
-            child.extract()
+
+def extract_real_graph(svg_root: Tag, actual_graphs: List[Tag]):
+    for g in actual_graphs:
+        svg_root.insert(0, g)
+
+    # Remove all other tags that we don't need, e.g. "style" tags
+    while has_non_graph_children(svg_root):
+        # For unknown reasons, BeautifulSoup4 sometimes does not properly extract (=remove) all objects on the
+        # first try
+        for child in svg_root.children:
+            if not is_graph(child):
+                child.extract()
 
 
 def fix_colors(svg_root: Tag):
@@ -53,12 +66,11 @@ if __name__ == '__main__':
         content = f.read_text(encoding="utf-8")
         b = BeautifulSoup(content, "lxml")
 
-    actual_graph = b.find("g", {"class": "svg-content"})
+    actual_graphs = b.find_all("g", {"class": "svg-content"})
 
     svg_root = b.find("svg")
 
-    while len(svg_root.contents) > 1:
-        extract_real_graph(svg_root, actual_graph)
+    extract_real_graph(svg_root, actual_graphs)
 
     fix_colors(svg_root)
 
